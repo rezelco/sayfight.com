@@ -32,7 +32,7 @@ SayFight is a real-time multiplayer game where players join a shared room and co
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/sayfight.git
+   git clone https://github.com/rezelco/sayfight.com.git
    cd sayfight
    ```
 
